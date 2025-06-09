@@ -17,7 +17,6 @@ namespace DemoForAssignment.Test
 
         public OrderServiceIntegrationTests()
         {
-            // 使用 SQLite 内存数据库
             var options = new DbContextOptionsBuilder<AppDbContext>()
                 .UseSqlServer("Server=localhost\\SQLEXPRESS;Initial Catalog=demoDb;Integrated Security=SSPI;TrustServerCertificate=True;", opts => opts.EnableRetryOnFailure())
                 .Options;
