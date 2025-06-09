@@ -8,7 +8,7 @@
 
 2.find OrderServiceIntegrationTests and right click to run test
 
-## some screen shot as below
+## Some screen shot as below
 
 ![屏幕截图 2025-06-10 011735](https://github.com/user-attachments/assets/90aa652c-d629-48d4-a9ec-d71761194844)
 
